@@ -1,12 +1,17 @@
-#WebPage App using ASP.NET and VS Community
-Implementation:
-<hr/>
+<h1>WebPage App using ASP.NET and VS Community</h1>
+<h2>Implementation:</h2>
+<h3> 
 database: Somee.com > Free.NET Hosting includes a 30MB MSSQL 2016/2019/2022 database.
-<hr/>
+ </h3>
+ <h3>
 Authentication and Authorization.
-<hr/>
+ </h3>
+ <h3>
 Login with a Gmail account.
-<hr/>
+ </h3>
+ <h3>
 Payment Gateway (Stripe)  https://dashboard.stripe.com/register
-<hr/>
+ </h3>
+ <h3>
 Implementation Catalogue, Cart, Order and Historial Orders
+</h3>
