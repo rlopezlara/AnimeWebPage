@@ -16,3 +16,4 @@ Payment Gateway (Stripe)  https://dashboard.stripe.com/register
 Implementation Catalogue, Cart, Order and Historial Orders
 </h3>
 <h3>Testing API controller</h3>
+<h3>Publish by Microsoft Azure Student Account. Link : https://animewebpage20240526172128.azurewebsites.net/</h3>
